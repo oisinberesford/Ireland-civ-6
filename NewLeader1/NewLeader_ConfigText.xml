@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_FELINE_NAME" Language="en_US">
+			<Text>The Irish</Text>
+		</Row>
+		
+		<Row Tag="LOC_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
+			<Text>The Fighting Irish</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FELINE_ADJECTIVE" Language="en_US">
+			<Text>Irish</Text>
+		</Row>
+		
+		<Row Tag="LOC_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Michael Collins</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_NAME" Language="en_US">
+			<Text>Drunken punches</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FELINE_DESCRIPTION" Language="en_US">
+			<Text>Hit or miss</Text>
+		</Row>
+		
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_NAME" Language="en_US">
+			<Text>Irish Folklore</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_JASPER_KITTY_DESCRIPTION" Language="en_US">
+			<Text>For each artifact dug up you get one more</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_LITTER_BOX_NAME" Language="en_US">
+			<Text>Pub</Text>
+		</Row>
+		
+		<Row Tag="LOC_BUILDING_LITTER_BOX_DESCRIPTION" Language="en_US">
+			<Text>The Pub is a unique tile improvement that only the irish can build.it gives one amenity for each one built.unit heal 50% faster while adjacent to one.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
