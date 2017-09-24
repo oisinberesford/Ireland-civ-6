@@ -27,7 +27,7 @@
 			<Name>LOC_BUILDING_LITTER_BOX_NAME</Name>
 			<Description>LOC_BUILDING_LITTER_BOX_DESCRIPTION</Description>
 			<Icon>ICON_BUILDING_LITTER_BOX</Icon>
-			<SortIndex>10</SortIndex>
+			<SortIndex>2</SortIndex>
 		</Row>
 	</PlayerItems>
 </GameData>
