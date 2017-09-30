@@ -451,6 +451,7 @@
 		<Element>
 			<libraryName text="Leader"/>
 			<relativePackagePaths>
+				<Element text="Leader_SHAKA"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>
@@ -547,7 +548,10 @@
 		<Element>
 			<libraryName text="UITexture"/>
 			<relativePackagePaths>
+				<Element text="Icons"/>
 				<Element text="UILeaders"/>
+				<Element text="LEADER_SHH_SHAKA"/>
+				<Element text="LeaderBackgrounds"/>
 			</relativePackagePaths>
 		</Element>
 		<Element>
